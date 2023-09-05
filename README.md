@@ -1,5 +1,5 @@
 # 2024 Summer Internships 🇬🇧
-Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A community-maintained space dedicated to listing summer internship opportunities in Computer Science for the year 2024 in the United Kingdom. Contributions are encouraged, as we strive to keep the list comprehensive, up-to-date, and relevant for recent grads entering the job market.
+Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A community-maintained space dedicated to listing summer internship opportunities in Computer Science for the year 2024 in the United Kingdom. Contributions are encouraged, as we strive to keep the list comprehensive, up-to-date, and relevant for interns entering the job market.
 
 ---
 
