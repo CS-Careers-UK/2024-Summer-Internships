@@ -11,5 +11,7 @@ Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A comm
 
 # The List 🎒
 
-| Company | Role | Location | Application Link |
-| -------- | -------- | -------- | -------- |
+| Company | Role | Location | Application Link | Date Posted |
+| -------- | -------- | -------- | -------- | -------- |
+| Maven Securities | Software Developer Summer Internship London 2024 | London | [Apply](https://www.mavensecurities.com/jobs/?gh_jid=4947751) | 5th Sep 23 |
+
