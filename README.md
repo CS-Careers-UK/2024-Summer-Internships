@@ -41,3 +41,8 @@ Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A comm
 | Nvidia | CPU Compiler Intern | Bristol | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
 | Nvidia | CPU Compiler Intern | Remote | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
 | Deutsche Bank | Technology Data & Innovation Intern | london | [Apply](https://db.recsolu.com/external/requisitions/om9UmnAso0uBYUUANfLFlg) | 7th Sep 23 |
+| UBS | Summer Intern Program - Technology | london | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=281641&siteid=5131&partnerid=25008&source=ILINKEDIN&PageType=JobDetails) | 7th Sep 23 |
+
+
+
+
