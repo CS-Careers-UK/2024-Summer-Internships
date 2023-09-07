@@ -36,3 +36,8 @@ Welcome to the [CS Careers UK](https://discord.gg/Fmmu5x8Gn8) repository. A comm
 | Barclays | Technology Developer Summer Intern | Glasgow | [Apply](https://search.jobs.barclays/job/-/-/22545/53938741568?src=JB-12860) | 7th Sep 23 |
 | Barclays | Technology Developer Summer Intern | Knutsford | [Apply](https://search.jobs.barclays/job/-/-/22545/53938742096?src=JB-12860) | 7th Sep 23 |
 | Barclays | Technology Developer Summer Intern | Northampton | [Apply](https://search.jobs.barclays/job/-/-/22545/53950982160?src=JB-12860) | 7th Sep 23 |
+| Nvidia | CPU Compiler Intern | Cambridge | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
+| Nvidia | CPU Compiler Intern | Reading | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
+| Nvidia | CPU Compiler Intern | Bristol | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
+| Nvidia | CPU Compiler Intern | Remote | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin) | 7th Sep 23 |
+| Deutsche Bank | Technology Data & Innovation Intern | london | [Apply](https://db.recsolu.com/external/requisitions/om9UmnAso0uBYUUANfLFlg) | 7th Sep 23 |
